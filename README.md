@@ -8,9 +8,13 @@ Gunakan tool ini dengan legal. jangan menggunakannya dengan illegal
 # Cara Memakai DDoS
 
 `1. Butuh Python.. versi 3.x.x`
+
 `2. Download file nya`
+
 `3. Kalau udah open cmd`
+
 `4. cd ke foldernya`
+
 `5. terus "py zeusattack.py"`
 
 # Syntax zeusattack.py
