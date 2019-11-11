@@ -26,4 +26,4 @@ Syntaxnya : py zeuzattack.py [-s] [-p] [-t]
 	-p : port default 80
 	-t : turbo default 135
 
-   Contoh : py zeusattack.py -s [ip server] -p [21,22,80] -t [max300]
+   `Contoh : py zeusattack.py -s [ip server] -p [21,22,80] -t [max300]`
